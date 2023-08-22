@@ -1,1 +1,1 @@
-# Yandex-Practicum-DS
+# Yandex Practicum DS
