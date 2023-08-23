@@ -1,8 +1,8 @@
 # Обо мне
 
-Привет! Меня зовут Мостовой Роман, и я начинающий data scientist. Здесь вы можете ознакомится с частью моих проектов.
+Привет! Меня зовут Мостовой Роман, и я начинающий Data Scientist. Здесь вы можете ознакомится с частью моих проектов.
 
-Основной опыт у меня - учебные проекты по специальности data scientist, сейчас прохожу курс [Machine Learning и Deep Learning](https://skillfactory.ru/machine-learning-i-deep-learning). 
+Основной опыт у меня - учебные проекты по специальности Data Scientist, сейчас прохожу курс [Machine Learning и Deep Learning](https://skillfactory.ru/machine-learning-i-deep-learning). 
 
 Контакты:
 * Почта: [lysergidework@gmail.com](mailto:lysergidework@gmail.com)
