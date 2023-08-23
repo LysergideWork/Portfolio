@@ -11,14 +11,6 @@
 
 Используемые технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, CatBoost, XGBoost, LightGBM, SQL.
 
-# Хакатоны
-
--
-
-# Стажировка
-
--
-
 # Дипломный проект
 
  | Проект | Задачи проекта | Стек |
