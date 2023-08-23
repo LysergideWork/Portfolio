@@ -2,13 +2,13 @@
 
 Привет! Меня зовут Мостовой Роман, и я начинающий data scientist. Здесь вы можете ознакомится с частью моих проектов.
 
-Основной опыт у меня - учебные проекты по специальности data scientist, сейчас прохожу курс [Machine Learning и Deep Learningl](https://skillfactory.ru/machine-learning-i-deep-learning). 
+Основной опыт у меня - учебные проекты по специальности data scientist, сейчас прохожу курс [Machine Learning и Deep Learning](https://skillfactory.ru/machine-learning-i-deep-learning). 
 
 Контакты:
-* Почта: [kharnakhoeva@gmail.com](mailto:kharnakhoeva@gmail.com)
-* Telegram: [@kharnakhoeva](https://t.me/kharnakhoeva)
+* Почта: [lysergidework@gmail.com](mailto:lysergidework@gmail.com)
+* Telegram: [@kharnakhoeva](https://t.me/lysergidework)
 
-[Резюме на hh](https://khimki.hh.ru/resume/c45d82d0ff0b4e7c2b0039ed1f337961623375)
+[Резюме на hh](https://hh.ru/resume/5227db7dff0be545ef0039ed1f394c32434e7a)
 
 Используемые технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, CatBoost, XGBoost, LightGBM, SQL.
 
