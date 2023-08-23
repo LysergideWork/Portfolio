@@ -6,7 +6,7 @@
 
 Контакты:
 * Почта: [lysergidework@gmail.com](mailto:lysergidework@gmail.com)
-* Telegram: [@kharnakhoeva](https://t.me/lysergidework)
+* Telegram: [@lysergidework](https://t.me/lysergidework)
 
 [Резюме на hh](https://hh.ru/resume/5227db7dff0be545ef0039ed1f394c32434e7a)
 
