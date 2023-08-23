@@ -7,8 +7,7 @@
 Контакты:
 * Почта: [lysergidework@gmail.com](mailto:lysergidework@gmail.com)
 * Telegram: [@lysergidework](https://t.me/lysergidework)
-
-[Резюме на hh](https://hh.ru/resume/5227db7dff0be545ef0039ed1f394c32434e7a)
+* Резюме: [на hh](https://hh.ru/resume/5227db7dff0be545ef0039ed1f394c32434e7a)
 
 Используемые технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, CatBoost, XGBoost, LightGBM, SQL.
 
