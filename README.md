@@ -3,7 +3,7 @@
 Привет! Меня зовут Мостовой Роман, и я начинающий Data Scientist. Здесь вы можете ознакомится с частью моих проектов.
 
 Основной опыт у меня - учебные проекты по специальности Data Scientist.  
-Я уже успешно окончил курс ["Специалист по Data Science" от Яндекс.Практикум](https://practicum.yandex.ru/data-scientist/) (лучшая метрика дипломного проекта в группе и одна из лучших на потоке).  
+Я уже успешно окончил курс ["Специалист по Data Science" от Яндекс.Практикум](https://practicum.yandex.ru/data-scientist/) (лучшая метрика дипломного проекта в группе и одна из лучших на потоке). [Диплом](https://drive.google.com/file/d/1FpxGjkhKXvL_251MbXBE91cPC205NhDT/view?usp=drive_link) ([english version](https://drive.google.com/file/d/1SI_vbUJcKzrRvjp50jSIKm2NMOXK358y/view?usp=drive_link))
 Сейчас прохожу курс [Machine Learning и Deep Learning от SkillFactory](https://skillfactory.ru/machine-learning-i-deep-learning).  
 
 Контакты:
