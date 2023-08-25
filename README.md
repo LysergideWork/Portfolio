@@ -11,7 +11,7 @@
 * Telegram: [@lysergidework](https://t.me/lysergidework)
 * Резюме: [headhunter](https://hh.ru/resume/5227db7dff0be545ef0039ed1f394c32434e7a)
 
-Используемые технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, CatBoost, XGBoost, LightGBM, SQL.
+Используемые технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, CatBoost, XGBoost, LightGBM, SQL, Re.
 
 # Дипломный проект
 
