@@ -10,7 +10,7 @@
 Оператор связи «Ниединогоразрыва.ком» хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия. Команда оператора собрала персональные данные о некоторых клиентах, информацию об их тарифах и договорах. 
 
 ### *Инструменты*: 
-python, pandas, re, phik, seaborn, numpy, time, category_encoders, scikitplot, shap, statsmodels, matplotlib, sklearn, imblearn, lightgbm, catboost, pipeline, smote, svm
+Python, Pandas, Re, Phi_K, Seaborn, NumPy, Time, Category_encoders, Scikitplot, SHAP, Statsmodels, Matplotlib, Sklearn, Imblearn, LightGBM, CatBoost, Pipeline, SMOTE, SVM
 
 ### *Вывод*:
 Во время анализа, мы столкнулись с несколькими трудносятми. Мы обнаружили аномалию, которая повлияла на предвзятость нашей модели. Мы создали несколько синтетических признаков, чтобы невилировать влияние аномалии, но всеравно модель остается предвзятой.  
