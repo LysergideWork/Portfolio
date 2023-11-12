@@ -13,7 +13,7 @@
 Сеть "Главное Пристанище Надежды" занимается продажей товаров для здоровья в 5-ти городах.
 
 ### *Инструменты*: 
-Python, Pandas, Re, Phi_K, Seaborn, NumPy, Time, Category_encoders, Scikitplot, SHAP, Statsmodels, Matplotlib, Sklearn, Imblearn, LightGBM, CatBoost, Pipeline, SMOTE, SVM
+Python, Pandas, Seaborn, NumPy, Datetime, Time, Statsmodels, Matplotlib, Sklearn, LightGBM, CatBoost, Tqdm, Itertools, Prophet, Plotly
 
 ### *Вывод*:
 Для прогнозирования цены, мы выбрали библиотеку Prophet. Подготовили датасет, обучили модель на заданных параметрах, сделали предсказание и визуализировали результат. Определили точность модели с помощью среднеквадратичной ошибки (RMSE). Сравнили получившийся результат с предложенной Baseline моделью. На графике визуально определили, что цены, предсказанные с помощью библиотеки Prophet, выше постоянной цены из Baseline. С помощью функции, мы составили предсказание цены для каждого из 3-х продуктов в 5-ти городах на 90 дней вперед. И выгрузили это предсказание в файл `df_price_predicted.parquet`
