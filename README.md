@@ -5,6 +5,7 @@
 Основной опыт у меня - учебные проекты по специальности Data Scientist.  
 Я успешно окончил курс ["Специалист по Data Science" от Яндекс.Практикум](https://practicum.yandex.ru/data-scientist/) (лучшая метрика дипломного проекта в группе и одна из лучших на потоке). [Диплом](https://drive.google.com/file/d/1FpxGjkhKXvL_251MbXBE91cPC205NhDT/view?usp=drive_link) ([english version](https://drive.google.com/file/d/1SI_vbUJcKzrRvjp50jSIKm2NMOXK358y/view?usp=drive_link))  
 Сейчас прохожу курс [Machine Learning и Deep Learning от SkillFactory](https://skillfactory.ru/machine-learning-i-deep-learning).  
+Участвовал в GPN Intelligence Cup 2023 [Сертификат](https://drive.google.com/file/d/1iAaEmSea1ASjykVC8B9kJ7k1BPo8kCxl/view?usp=drive_link)
 
 Контакты:
 * Почта: [lysergidework@gmail.com](mailto:lysergidework@gmail.com)
