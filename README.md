@@ -7,12 +7,40 @@
 Сейчас прохожу курс [Machine Learning и Deep Learning от SkillFactory](https://skillfactory.ru/machine-learning-i-deep-learning).  
 Участвовал в GPN Intelligence Cup 2023 - [Сертификат](https://drive.google.com/file/d/1iAaEmSea1ASjykVC8B9kJ7k1BPo8kCxl/view?usp=drive_link).  
 
-Контакты:
+**Контакты:**
 * Почта: [lysergidework@gmail.com](mailto:lysergidework@gmail.com)
 * Telegram: [@lysergidework](https://t.me/lysergidework)
 * Резюме: [headhunter](https://hh.ru/resume/5227db7dff0be545ef0039ed1f394c32434e7a)
 
-Используемые технологии: SQL, Python, Pandas, TensorFlow, Keras, NumPy, Seaborn, Matplotlib, SciPy, Re, Sklearn, Бутстреп, Statsmodels, Time, XGBoost, LightGBM, CatBoost, Prophet, Itertools, sys, SpaCy, TQDM, BERT, NLTK, Pipeline, Phi_K, Category_encoders, Scikitplot, SHAP, Imblearn, SMOTE, SVM
+**Data Mining и Data Extraction:**
+* parsing
+* работа с базами данных (SQL, API)
+
+**Data analysis:**
+* обработка данных (удаление выбросов, заполнение пропусков, поиск аномалий)
+* проведение А/B тестов
+* формирование и проверка гипотез, оценка параметров, приоритизация гипотез
+* Excel и google spreadsheets (сводные таблицы, вложенные функции, макросы, визуализация, импорт данных с помощью Apps Script)
+* базовые знания в финансовом моделировании и бизнес-процессах
+* PowerPoint
+* Python для анализа данных
+* Tableau для анализа данных
+* продуктовые метрики
+* точки роста
+* когортный анализ
+* воронки продаж
+
+**Data science:**
+* Python для машинного обучения
+* классический Machine Learning
+* Deep Learning
+* нейросети (churn rate, анализ временных рядов, Computer Vision, Natural Language Processing)
+
+**Backend для машинного обучения:**
+* HTTP API-сервер на основе FastAPI для формирования предсказания обученных моделей
+
+**Технологический стек Python:** 
+Pandas, TensorFlow, Keras, NumPy, Seaborn, Matplotlib, SciPy, Re, Sklearn, Statsmodels, Time, XGBoost, LightGBM, CatBoost, Prophet, Itertools, sys, SpaCy, TQDM, BERT, NLTK, Pipeline, Phi_K, Category_encoders, Scikitplot, SHAP, Imblearn, SMOTE, SVM, ETNA
 
 # Дипломный проект
 
