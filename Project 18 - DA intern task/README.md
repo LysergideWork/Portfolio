@@ -1,1 +1,1 @@
-123456
+Так как gшthub не хочет дружить с plotly express, то вот [ссылка с отображающимися графиками](https://nbviewer.org/github/LysergideWork/Portfolio/blob/5615a8d3bd0b63c7f50a55e940803624a7c6b8a6/Project%2018%20-%20DA%20intern%20task/pr18%20-%20DA_intern_test.ipynb)
