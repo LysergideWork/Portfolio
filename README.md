@@ -16,7 +16,8 @@
 
 **Data Mining и Data Extraction:**
 * parsing
-* работа с базами данных (SQL, API)  
+* работа с базами данных (SQL, API)
+
 **Data Engineering:**
 * опыт работы в bigdata
 * экосистема Hadoop: HDFS, YARN, MapReduce, Hive, HBase, Spark, Zookeeper, Airflow, NiFi,
@@ -27,7 +28,8 @@
 * инструменты Agile (Jira, Confluence, Scrum, Kanban) для управления задачами и ведения документации
 * опыт создания технической документации, картирования данных (DMD/ERD) с использованием DrawSQL
 * PySpark
-* проектирования ETL/ELT процессов, оркестрация, автоматизация, мониторинг, логирование, контроль качества данных  
+* проектирования ETL/ELT процессов, оркестрация, автоматизация, мониторинг, логирование, контроль качества данных
+
 **Data Analysis:**
 * обработка данных (удаление выбросов, заполнение пропусков, поиск аномалий)
 * проведение А/B тестов- Структурный подход (постановка задачи SMART, формирование, анализ и приоритезация гипотез, сбор и синтез данных, формирование идей и рекомендаций)
@@ -39,13 +41,15 @@
 * продуктовые метрики
 * точки роста
 * когортный анализ
-* воронки продаж  
+* воронки продаж
+
 **Data Science:**
 * Python для машинного обучения
 * классический Machine Learning
 * Deep Learning
 * нейросети (churn rate, анализ временных рядов, Computer Vision, Natural Language Processing)
-* HTTP API-сервер на основе FastAPI для формирования предсказания обученных моделей  
+* HTTP API-сервер на основе FastAPI для формирования предсказания обученных моделей
+
 **Технологический стек Python:**
 Pandas, TensorFlow, Keras, NumPy, Seaborn, Matplotlib, SciPy, Re, Sklearn, Statsmodels, Time, XGBoost, LightGBM, CatBoost, Prophet, Itertools, sys, SpaCy, TQDM, BERT, NLTK, Pipeline, Phi_K, Category_encoders, Scikitplot, SHAP, Imblearn, SMOTE, SVM, ETNA
 
