@@ -8,7 +8,6 @@
 Сейчас прохожу курс [Аналитик PRO, 3 в 1 от Changellenge education](https://1.changellenge.com/analyst-pro). [Диплом SQL](https://drive.google.com/file/d/1pc3HElYPFRc9ihigPobyQdrnGmwKhnBA/view) и [рекомендательное письмо](https://drive.google.com/file/d/1dc2uFu5XT-W8zgFXA2cbfmM90FJF5_6k/view). [Диплом Excel](https://drive.google.com/file/d/19dVJ0x4-6vUQ-5h8if0gb-yn2BhHoPnr/view) и [рекомендательное письмо](https://drive.google.com/file/d/1SbUEUQSqRpaxko_rmQ5grVnIqmGUuhtS/view), [Диплом Python для аналитики данных](https://drive.google.com/file/d/1SahXSdYDDrA3nDccK_NlefpsrbN6SJxo/view) и [рекомендательное письмо](https://drive.google.com/file/d/1lRO-X-mCJFyjy8t7XyUwtLlIDeQCkczE/view).
 
 **Контакты:**
-* Почта: [lysergidework@gmail.com](mailto:lysergidework@gmail.com)
 * Telegram: [@lysergidework](https://t.me/lysergidework)
 
 # Список навыков
