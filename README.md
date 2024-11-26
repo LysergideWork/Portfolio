@@ -50,7 +50,8 @@
 * нейросети (churn rate, анализ временных рядов, Computer Vision, Natural Language Processing)
 * HTTP API-сервер на основе FastAPI для формирования предсказания обученных моделей
 
-**Технологический стек Python:**
+**Технологический стек Python:**  
+
 Pandas, TensorFlow, Keras, NumPy, Seaborn, Matplotlib, SciPy, Re, Sklearn, Statsmodels, Time, XGBoost, LightGBM, CatBoost, Prophet, Itertools, sys, SpaCy, TQDM, BERT, NLTK, Pipeline, Phi_K, Category_encoders, Scikitplot, SHAP, Imblearn, SMOTE, SVM, ETNA
 
 # Дипломный проект
