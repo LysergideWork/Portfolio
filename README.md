@@ -1,8 +1,7 @@
 # Обо мне
 
-Привет! Меня зовут Мостовой Роман, и я начинающий Data Scientist. Здесь вы можете ознакомится с частью моих проектов.
+Привет! Меня зовут Мостовой Роман. Здесь вы можете ознакомится с частью моих проектов.
 
-Основной опыт у меня - учебные проекты по специальности Data Scientist.  
 Я успешно окончил курс ["Специалист по Data Science" от Яндекс.Практикум](https://practicum.yandex.ru/data-scientist/) (лучшая метрика дипломного проекта в группе и одна из лучших на потоке). [Диплом](https://drive.google.com/file/d/1FpxGjkhKXvL_251MbXBE91cPC205NhDT/view?usp=drive_link) ([english version](https://drive.google.com/file/d/1SI_vbUJcKzrRvjp50jSIKm2NMOXK358y/view?usp=drive_link))  
 Закончил курс [Machine Learning и Deep Learning от SkillFactory](https://skillfactory.ru/machine-learning-i-deep-learning).  
 Участвовал в GPN Intelligence Cup 2023 - [Сертификат](https://drive.google.com/file/d/1iAaEmSea1ASjykVC8B9kJ7k1BPo8kCxl/view?usp=drive_link).  
@@ -18,12 +17,21 @@
 **Data Mining и Data Extraction:**
 * parsing
 * работа с базами данных (SQL, API)
-
-**Data analysis:**
+**Data Engineering:**
+* опыт работы в bigdata
+* экосистема Hadoop: HDFS, YARN, MapReduce, Hive, HBase, Spark, Zookeeper, Airflow, NiFi,
+ SparkStreaming, Spark Mllib, Faust
+* Базы данных: MySQL, PostgreSQL, Greenplum, Clickhouse
+* BI, мониторинг и визуализация данных: Tableau, Superset, Metabase, Grafana, Prometheus
+* потоковая передача данных: Kafka, Spark Streaming, Flink, Ni Fi
+* инструменты Agile (Jira, Confluence, Scrum, Kanban) для управления задачами и ведения документации
+* опыт создания технической документации, картирования данных (DMD/ERD) с использованием DrawSQL
+* PySpark
+* проектирования ETL/ELT процессов, оркестрация, автоматизация, мониторинг, логирование, контроль качества данных
+**Data Analysis:**
 * обработка данных (удаление выбросов, заполнение пропусков, поиск аномалий)
-* проведение А/B тестов
-* формирование и проверка гипотез, оценка параметров, приоритизация гипотез
-* Excel и google spreadsheets (сводные таблицы, вложенные функции, макросы, визуализация, импорт данных с помощью Apps Script)
+* проведение А/B тестов- Структурный подход (постановка задачи SMART, формирование, анализ и приоритезация гипотез, сбор и синтез данных, формирование идей и рекомендаций)
+* Excel и google spreadsheets (сводные таблицы, вложенные функции, макросы, визуализация, Apps Script)
 * базовые знания в финансовом моделировании и бизнес-процессах
 * PowerPoint
 * Python для анализа данных
@@ -32,17 +40,13 @@
 * точки роста
 * когортный анализ
 * воронки продаж
-
-**Data science:**
+**Data Science:**
 * Python для машинного обучения
 * классический Machine Learning
 * Deep Learning
 * нейросети (churn rate, анализ временных рядов, Computer Vision, Natural Language Processing)
-
-**Backend для машинного обучения:**
 * HTTP API-сервер на основе FastAPI для формирования предсказания обученных моделей
-
-**Технологический стек Python:** 
+**Технологический стек Python:**
 Pandas, TensorFlow, Keras, NumPy, Seaborn, Matplotlib, SciPy, Re, Sklearn, Statsmodels, Time, XGBoost, LightGBM, CatBoost, Prophet, Itertools, sys, SpaCy, TQDM, BERT, NLTK, Pipeline, Phi_K, Category_encoders, Scikitplot, SHAP, Imblearn, SMOTE, SVM, ETNA
 
 # Дипломный проект
