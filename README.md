@@ -10,7 +10,6 @@
 **Контакты:**
 * Почта: [lysergidework@gmail.com](mailto:lysergidework@gmail.com)
 * Telegram: [@lysergidework](https://t.me/lysergidework)
-* Резюме: [headhunter](https://hh.ru/resume/5227db7dff0be545ef0039ed1f394c32434e7a)
 
 # Список навыков
 
